@@ -12,7 +12,8 @@ You may also find these useful (one-click to download all [here](https://drive.g
 
 I remember other tools used to exist for this but for the life of me can't remember what they were, so this is more for my own sanity more than anything else - was easier just to quickly make this while I was already playing around a lot with FFMPEG.
 
-<img width="755" height="783" alt="image" src="https://github.com/user-attachments/assets/6c65151d-f0b8-4a98-aa1d-fa51e4e9f7bd" />
+<img width="1231" height="1277" alt="image" src="https://github.com/user-attachments/assets/f13ebb2d-f7bf-49b2-9efd-6fe99cac2a88" />
+
 
 Credits:
 - Python, application runtime
