@@ -13,3 +13,10 @@ You may also find these useful (one-click to download all [here](https://drive.g
 I remember other tools used to exist for this but for the life of me can't remember what they were, so this is more for my own sanity more than anything else - was easier just to quickly make this while I was already playing around a lot with FFMPEG.
 
 <img width="755" height="783" alt="image" src="https://github.com/user-attachments/assets/6c65151d-f0b8-4a98-aa1d-fa51e4e9f7bd" />
+
+Credits:
+- Python, application runtime
+- Tcl/Tk, user interface
+- Pillow, image previews
+- PyAV / FFmpeg, media inspection, preview decoding, and lossless trimming/joining
+- PyInstaller, Windows executable packaging
