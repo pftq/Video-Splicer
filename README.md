@@ -1,5 +1,5 @@
 # Video-Splicer
-Trim or join MP4s without re-encoding.
+Trim or join MP4s without re-encoding, fast & lossless edits.
 
 I remember other tools used to exist for this but for the life of me can't remember what they were, so this is more for my own sanity more than anything else - was easier just to quickly make this while I was already playing around a lot with FFMPEG.
 
