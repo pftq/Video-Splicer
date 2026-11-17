@@ -1,5 +1,7 @@
 # Video-Splicer
-Trim or join MP4s without re-encoding, fast & lossless edits.
+Trim or join MP4s without re-encoding, fast & lossless edits.*
+
+*except crops which require re-encoding.
 
 Download: https://github.com/pftq/Video-Splicer/releases/tag/20261105<br>
 You may also find these useful (one-click to download all [here](https://drive.google.com/drive/folders/1nvQFC5uwsZlf-82LuskCP-qut9xHw-lt?usp=sharing)):\
