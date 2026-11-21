@@ -13,7 +13,7 @@ You may also find these useful (one-click to download all [here](https://drive.g
 • [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)\
 • [Video To Selective Color](https://github.com/pftq/Video-To-Selective-Color) (selectively leave things in color on black-and-white video)
 
-I remember other tools used to exist for this but for the life of me can't remember what they were, so this is more for my own sanity more than anything else - was easier just to quickly make this while I was already playing around a lot with FFMPEG.
+I remember other tools used to exist for this but for the life of me can't remember what they were, so this is more for my own sanity more than anything else - was easier just to quickly make this while I was already playing around a lot with FFMPEG.  It also works on audio files (MP3s).
 
 <img width="1231" height="1277" alt="image" src="https://github.com/user-attachments/assets/f13ebb2d-f7bf-49b2-9efd-6fe99cac2a88" />
 
