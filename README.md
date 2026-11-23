@@ -9,6 +9,7 @@ You may also find these useful (one-click to download all [here](https://drive.g
 • [Video Compare](https://github.com/pftq/Video-Compare) (to check export errors, differences, etc)\
 • [MP4 Audio Delay Fix](https://github.com/pftq/MP4-Audio-Delay-Fix) (20ms delay at start of file)\
 • [Video Frame Sync](https://github.com/pftq/Video-Frame-Sync) (syncing 2 files that drift out of sync)\
+• [Video Mask](https://github.com/pftq/Video-Mask) (mask, sync, color-correct, and merge changes in one tool)\
 • [Video Color Match](https://github.com/pftq/VideoColorMatch) (correcting color grading drift)\
 • [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)\
 • [Video To Selective Color](https://github.com/pftq/Video-To-Selective-Color) (selectively leave things in color on black-and-white video)
